@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+  xmlns:dc="http://purl.org/dc/elements/1.1/">
+  <author>
+    <name></name>
+  </author>
+  <id></id>
+  <link href="/blog"/>
+  <title>Шапка</title>
+  <updated>2019-02-13T14:00:58+03:00</updated>
+  <entry>
+    <id>/blog/2005/08/1</id>
+    <link href="/blog/2005/08/1"/>
+    <summary>Описание второй записи</summary>
+    <title>Вторая запись</title>
+    <updated>2005-08-14T12:00:00Z</updated>
+    <dc:date>2005-08-14T12:00:00Z</dc:date>
+  </entry>
+  <entry>
+    <id>/blog/2005/07/1</id>
+    <link href="/blog/2005/07/1"/>
+    <summary>Описание первой записи</summary>
+    <title>Первая запись</title>
+    <updated>2005-07-14T12:00:00Z</updated>
+    <dc:date>2005-07-14T12:00:00Z</dc:date>
+  </entry>
+  <dc:date>2019-02-13T14:00:58+03:00</dc:date>
+</feed>

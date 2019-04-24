@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <language>ru</language>
+    <title>Lenta.ru : Новости</title>
+    <description>Новости, статьи, фотографии, видео. Семь дней в неделю, 24 часа в сутки.</description>
+    <link>https://lenta.ru</link>
+    <image>
+      <url>https://assets.lenta.ru/small_logo.png</url>
+      <title>Lenta.ru</title>
+      <link>https://lenta.ru</link>
+      <width>134</width>
+      <height>22</height>
+    </image>
+    <atom:link rel="self" type="application/rss+xml" href="http://lenta.ru/rss/news"/>
+    <item>
+      <guid>https://lenta.ru/news/2019/01/28/old_friend/</guid>
+      <title>Запись 1</title>
+      <link>Ссылка 1</link>
+      <description>
+        Описание 1
+      </description>
+      <pubDate>Mon, 28 Jan 2019 02:08:00 +0300</pubDate>
+      <enclosure url="http://icdn.lenta.ru/images/2019/01/28/02/20190128020324126/pic_2ecc07153f8c00c456fee0eb1cddb282.jpg" type="image/jpeg" length="19655"/>
+      <category>Бывший СССР</category>
+    </item>
+    <item>
+      <guid>https://lenta.ru/news/2019/01/28/protiv/</guid>
+      <title>Запись 2</title>
+      <link>Ссылка 2</link>
+      <description>
+        Описание 2
+      </description>
+      <pubDate>Mon, 24 Jan 2019 06:51:00 +0300</pubDate>
+      <enclosure url="http://icdn.lenta.ru/images/2019/01/28/06/20190128064953452/pic_c193d65e25bc3a13ba1c06ae53e3eebd.jpg" type="image/jpeg" length="109475"/>
+      <category>Россия</category>
+    </item>
+  </channel>
+</rss>
